@@ -1,6 +1,6 @@
 # Sorting algorithms
 
-Simple python project that tests some sorting algorithms, explaining how they work and comparing his complexity and efficiency.
+Simple python project that tests sorting algorithms, explaining how they work and comparing his complexity and efficiency.
 
 ## Problem statement
 ​
